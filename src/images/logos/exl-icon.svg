@@ -1,0 +1,16 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1em" height="1em" viewBox="0 0 95.296202 35.477805" version="1.1" id="svg13220" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="exl.svg">
+  <defs id="defs13214"/>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="4.0538884" inkscape:cx="179.08732" inkscape:cy="66.044674" inkscape:document-units="mm" inkscape:current-layer="layer1" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" units="px" inkscape:window-width="1920" inkscape:window-height="1001" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1"/>
+  <metadata id="metadata13217">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-388.04505,-167.11557)">
+    <path inkscape:connector-curvature="0" id="path13146" style="fill:#fb4e0b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778" d="m 445.94505,202.32879 h 7.80344 l -12.61709,-17.4745 12.61709,-17.47414 h -7.80344 l -8.87024,12.38497 -8.8706,-12.38497 h -7.80309 l 12.61709,17.47414 -12.61709,17.4745 h 7.80309 l 8.8706,-12.38533 z m -28.42613,0 v -6.05155 h -22.87129 v -8.40882 h 22.87129 v -6.05084 h -22.87129 v -8.41163 h 22.87129 v -6.0258 h -23.6862 c -3.05012,0 -5.52309,2.47262 -5.52309,5.52309 v 23.90246 c 0,3.05047 2.47297,5.52309 5.52309,5.52309 z m 44.59711,0 h 20.96064 v -6.40363 h -19.20945 v -28.54501 h -7.27428 v 29.42555 c 0,3.05047 2.47262,5.52309 5.52309,5.52309"/>
+  </g>
+</svg>
